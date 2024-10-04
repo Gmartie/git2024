@@ -1,0 +1,1 @@
+print("Pantalla de Inicio")
